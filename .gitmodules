@@ -4,3 +4,18 @@
 [submodule "sticky-configured"]
 	path = sticky-configured
 	url = git@github.com:StickySource/sticky-configured.git
+[submodule "sticky-configured-guice3"]
+	path = sticky-configured-guice3
+	url = git@github.com:StickySource/sticky-configured-guice3.git
+[submodule "sticky-configured-guice4"]
+	path = sticky-configured-guice4
+	url = git@github.com:StickySource/sticky-configured-guice4.git
+[submodule "sticky-configured-spring3"]
+	path = sticky-configured-spring3
+	url = git@github.com:StickySource/sticky-configured-spring3.git
+[submodule "sticky-configured-spring4"]
+	path = sticky-configured-spring4
+	url = git@github.com:StickySource/sticky-configured-spring4.git
+[submodule "sticky-configured-tck"]
+	path = sticky-configured-tck
+	url = git@github.com:StickySource/sticky-configured-tck.git
